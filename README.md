@@ -1,0 +1,1 @@
+What is an excellent way to check the Domain Controller health? Perhaps you want to add a new Domain Controller to an existing domain, and before doing that, you want to check the Active Directory health state. Let’s see how to health check Active Directory with an excellent PowerShell script.
